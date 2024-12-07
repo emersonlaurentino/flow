@@ -1,16 +1,16 @@
 # Flow
 
-This is a Type-Safe agnostic runtime Web Framework concept to handle Workflows and Schedules nativily, it was inspired by Hono.
+Type-Safe agnostic runtime Web Framework concept to handle Workflows and Schedules natively, it was inspired by Hono.
 
 ## Features
 
 - Workflows
 - Failure detection
 - Composability
-- Interrupt
+- Interruption
 - Encryption
 - Schedules
-- Observabillitty
+- Observability
 
 ## Details
 
